@@ -5,9 +5,9 @@
   <table class="table table-bordered">
      <tr>
        <th>Id</th>
-       <th>Enrollment no.</th>
-       <th>Date</th>
-       <th>Amount</th>
+            <th>Enrollment no.</th>
+            <th>Date</th>
+            <th>Amount</th>
 
       <th colspan="3" class="text-center">Action</th>
     </tr>
